@@ -1,7 +1,6 @@
 ---
 name: web-canvas
 description: Creates a local interactive web design canvas when users want to explore and adjust a web application's visual design before implementation.
-license: MIT
 ---
 
 # Web canvas

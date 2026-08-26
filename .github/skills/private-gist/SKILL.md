@@ -1,7 +1,6 @@
 ---
 name: private-gist
 description: Creates non-public GitHub gists for notes, canvas snippets, or samples when the user asks to save or share session material.
-license: MIT
 ---
 
 # Private gist

@@ -1,7 +1,7 @@
 # Explore GitHub Copilot with custom agents
 
-This MIT-licensed template is a guided sandbox for non-developers to turn an
-idea into a planned and implemented application with GitHub Copilot.
+This template is a guided sandbox for non-developers to turn an idea into a
+planned and implemented application with GitHub Copilot.
 
 > [!IMPORTANT]
 > Do not create issues or projects in this template repository. First create
@@ -161,7 +161,3 @@ deployment, troubleshooting, ownership, and security responsibilities clear.
 - Require tests or an appropriate manual check before merging.
 - Keep `main` deployable and use short-lived branches.
 - Stop an agent if it targets the upstream template instead of your copy.
-
-## License
-
-This template is available under the [MIT License](LICENSE).

@@ -1,7 +1,6 @@
 ---
 name: repository-knowledge-base
 description: Creates or updates verified repository documentation for setup, usage, navigation, maintenance, deployment, operations, and organizational handover.
-license: MIT
 ---
 
 # Repository knowledge base
