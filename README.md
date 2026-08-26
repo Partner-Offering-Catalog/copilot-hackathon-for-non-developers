@@ -28,7 +28,7 @@ You need:
    [GitHub Copilot](https://docs.github.com/en/copilot/get-started/plans).
 2. Permission to create a repository and, for the planning exercise, a
    GitHub Project in your account or training organization.
-3. [Git](https://git-scm.com/downloads) installed.
+3. [Git](https://github.com/git-guides/install-git) installed.
 4. The
    [GitHub Copilot desktop app](https://github.com/features/ai/github-app)
    installed for your operating system.
@@ -55,9 +55,9 @@ exercise its own issues, milestones, projects, branches, and pull requests.
 3. Select **Sign in with GitHub** and complete authorization in the browser.
 4. If prompted, allow the app to access the owner of your training repository.
 
-The interface changes frequently. See the
-[Copilot app repository](https://github.com/github/app) for current releases
-and platform-specific troubleshooting.
+The interface changes frequently. See
+[Getting started with the GitHub Copilot app](https://docs.github.com/copilot/how-tos/github-copilot-app/getting-started)
+for current installation and connection instructions.
 
 ## 3. Clone through the Copilot app
 
