@@ -1,0 +1,1 @@
+# copilot-hackathon-for-non-developers
